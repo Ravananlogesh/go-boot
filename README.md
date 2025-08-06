@@ -87,7 +87,7 @@ go build -o go-boot .
 
 Feel free to open issues or PRs. If you'd like to collaborate or contribute in any way, please contact me:
 
-📧 **[logeshkumar@example.com](mailto:logeshkumar@example.com)**
+📧 **[logeshkumarmscit@gmail.com](mailto:logeshkumarmscit@gmail.com)**
 
 ---
 
