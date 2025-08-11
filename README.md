@@ -105,7 +105,3 @@ Product Developer | Go, Java, Node.js
 
 ```
 
----
-
-Let me know if you want this converted into an actual `README.md` file or want to add badges, demo GIFs, or GitHub Actions CI integration!
-```
